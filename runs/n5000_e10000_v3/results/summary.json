@@ -1,0 +1,11 @@
+[
+  {
+    "seed": 7,
+    "random_one_mse": 0.14330907184477035,
+    "untrained_bm_expected_mse": 0.13961206274674948,
+    "trained_bm_expected_mse": 0.041985882164358855,
+    "trained_best_of_20_mse": 0.008636322723873349,
+    "oracle_all_64_mse": 0.0014303393458274941,
+    "seconds": 455.22248529100034
+  }
+]

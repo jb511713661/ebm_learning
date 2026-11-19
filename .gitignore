@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+swanlog/
+.env
+.DS_Store
+.env.*
+*.log
+runs/*
+!runs/n5000_e10000_v3/

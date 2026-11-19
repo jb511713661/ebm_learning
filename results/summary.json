@@ -1,0 +1,29 @@
+[
+  {
+    "seed": 7,
+    "random_one_mse": 0.15255089681302744,
+    "untrained_bm_expected_mse": 0.141040520985208,
+    "trained_bm_expected_mse": 0.04210116233612659,
+    "trained_best_of_20_mse": 0.009089334176966325,
+    "oracle_all_64_mse": 0.0014039079891486005,
+    "seconds": 0.21795995799948287
+  },
+  {
+    "seed": 19,
+    "random_one_mse": 0.14377048250605587,
+    "untrained_bm_expected_mse": 0.14027092782196157,
+    "trained_bm_expected_mse": 0.042157121365741165,
+    "trained_best_of_20_mse": 0.009481405402101217,
+    "oracle_all_64_mse": 0.0014162536668838556,
+    "seconds": 0.2194393330009916
+  },
+  {
+    "seed": 42,
+    "random_one_mse": 0.14550516548662007,
+    "untrained_bm_expected_mse": 0.14220167099978992,
+    "trained_bm_expected_mse": 0.04206050599850045,
+    "trained_best_of_20_mse": 0.009449496776030459,
+    "oracle_all_64_mse": 0.001467502140869489,
+    "seconds": 0.2177321250001114
+  }
+]

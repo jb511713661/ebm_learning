@@ -1,0 +1,21 @@
+{
+  "data/synthetic_7.npz": "edb4705f5a223ec1ac299024edf9ce13f2450eb97fd36e683d8f4206272557c4",
+  "results/batches_7.csv": "9cf56aa0a9e7e929917a630671a15fb28f7f0a555b0909f75a3ba94bf659e672",
+  "results/checkpoint_7.npz": "2203ee55262fa152af57ec3fb882de5206eb26a4729a382fd212a5f4454d1bbf",
+  "results/checkpoints/seed_7_epoch_01000.npz": "a0e142123434def7bd078afaedb24c6c932745157a8fefc23cbdd850d962f004",
+  "results/checkpoints/seed_7_epoch_02000.npz": "1aa593d299e9d555237eb6dad5050131292021399829c5acd788ba9f67f21fd4",
+  "results/checkpoints/seed_7_epoch_03000.npz": "d558a53543473f10e3159da1bf6aabbb16b5d889a4c99a979ae4b578239f5617",
+  "results/checkpoints/seed_7_epoch_04000.npz": "90f5464d6321a366bf4a9d1cb529a383e5222ffa69d7ec145f39d27f7f4a8080",
+  "results/checkpoints/seed_7_epoch_05000.npz": "96968e6a7a25652ce1b9f365ed84f27b955bccef1e69176ee2206f45f02380cf",
+  "results/checkpoints/seed_7_epoch_06000.npz": "27208414f8383b052cecdee917edf884218e33acfd29232984966b10b49d5607",
+  "results/checkpoints/seed_7_epoch_07000.npz": "5a1e848a898f53e6bfaf06fcf32ee8d8e789e562a35b9fca106c3e7bfdc062b9",
+  "results/checkpoints/seed_7_epoch_08000.npz": "ee42e0f772599037c7d16ede893a0bbce55d81874c984b84ddeee26d9340434e",
+  "results/checkpoints/seed_7_epoch_09000.npz": "1794c12cce599c6839ca8bb684545662d36b0d15ffb88e1b44d1630d0a203cad",
+  "results/checkpoints/seed_7_epoch_10000.npz": "2a3301411a1518bf8724c27c70fdde74745dacaf6636c2607582e4a522df9b8c",
+  "results/config.json": "d2ce3bda10b27c16b5af871c5cd99fd53b171a7ea6b50eac340669b24c1e6845",
+  "results/inference_7.json": "663d8767b095a1b27a187f791ee191e5cf945644036718be498b2fb1c7df7a55",
+  "results/summary.csv": "306be32f4d1f53df5c240850949540989617fcf7cb091d177b179d5c147feeb5",
+  "results/summary.json": "3702dd590ccc6b250a7a8919ebed39eb3f14fc20e9f8b9a4d80bb84f87a0666c",
+  "results/train_source.py": "c918170c5ca50dc549b33999bab419bcc84a8503f1dd085cd03f2acfce97982e",
+  "results/training_7.csv": "9b4f7480ff794649b457ed8d442f50aefb88ac11dd8dbe8e46ece98a9a1fb1ef"
+}

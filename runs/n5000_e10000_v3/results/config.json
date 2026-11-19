@@ -1,0 +1,22 @@
+{
+  "train_size": 5000,
+  "test_size": 1000,
+  "epochs": 10000,
+  "learning_rate": 0.035,
+  "batch_size": 32,
+  "random_candidates": 16,
+  "bm_candidates": 4,
+  "bits_per_dimension": 3,
+  "action_dimensions": 2,
+  "tau_error": 0.5,
+  "l2": 0.0001,
+  "seeds": [
+    7
+  ],
+  "lr_schedule": "cosine",
+  "warmup_epochs": 100,
+  "min_lr_ratio": 0.1,
+  "batch_log_every": 50,
+  "log_every": 1,
+  "checkpoint_every": 1000
+}

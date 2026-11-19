@@ -1,0 +1,18 @@
+{
+  "train_size": 256,
+  "test_size": 256,
+  "epochs": 100,
+  "learning_rate": 0.035,
+  "batch_size": 32,
+  "random_candidates": 16,
+  "bm_candidates": 4,
+  "bits_per_dimension": 3,
+  "action_dimensions": 2,
+  "tau_error": 0.5,
+  "l2": 0.0001,
+  "seeds": [
+    7,
+    19,
+    42
+  ]
+}
